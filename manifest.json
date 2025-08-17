@@ -1,11 +1,11 @@
 {
-    "name": "timestick",
-    "short_name": "timestick",
+    "name": "Linear Timekeeper",
+    "short_name": "linear_timekeeper",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A visual timer application .",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
